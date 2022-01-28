@@ -20,7 +20,7 @@ Group similar code elements together for quick comparison.
 
 Code Filter is in early development stage, planned to be released in two editions: 
 
-Free edition is **alreay avaibale** in preview, supports C# langauge, is installed as an extension to Visual Studio.
+Free edition is **already available** in preview, supports C# language, is installed as an extension to Visual Studio.
 
 Pro edition is work in progress, planned to be licened. You can support this work on [Patreon](https://www.patreon.com/lazycodertools). 
 
@@ -28,7 +28,7 @@ Pro edition is work in progress, planned to be licened. You can support this wor
 
 Read the [documentation](https://github.com/lazycodertools/codefilter/wiki)
 
-Visit the project [web site](https://www.lazycodertools.com/code_filter)
+Visit the project [website](https://www.lazycodertools.com/code_filter)
 
 
 
