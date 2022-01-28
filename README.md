@@ -22,7 +22,7 @@ Code Filter is in early development stage, planned to be released in two edition
 
 Free edition is **already available** in preview, supports C# language, is installed as an extension to Visual Studio.
 
-Pro edition is work in progress, planned to be licened. You can support this work on [Patreon](https://www.patreon.com/lazycodertools). 
+Pro edition is work in progress, planned to be licensed. You can support this work on [Patreon](https://www.patreon.com/lazycodertools). 
 
 # Resources
 
